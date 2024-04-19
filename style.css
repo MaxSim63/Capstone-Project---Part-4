@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: lightblue;
+    color: black;
+    padding: 30px;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+#apodContent {
+    margin-bottom: 20px;
+}
+
+.favorites {
+    margin: 10px;
+    color: black;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.favoritesh2 {
+    color: black;
+}
+
+.favorite-item {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.favorite-button {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+}
+
+.remove-favorite {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+}
